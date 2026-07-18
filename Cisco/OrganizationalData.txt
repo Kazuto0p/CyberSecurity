@@ -31,3 +31,16 @@ A data breach often involves an incident where sensitive
 personal data has been stolen. Cybercriminals can make this 
 imformation public or exploit it to steal an individual's money 
 and/or identity.
+
+
+
+LOSS OF REVENUE
+
+The financial impact of a security breach can be devastating
+For example, hackers can take down an organization's
+website, preventing it from doing buisness online . A loss of
+customer information may impede company growth and 
+expansion. It may demand further investment in an
+organization's security infrastructure. And let's not forget that 
+organizations may face large fines or penalities if they do not 
+protect online data.
