@@ -22,3 +22,12 @@ or address, which can be tickier to detect.
 In either case, online vandlisim can portray unprofessionalisim
 and have a negative impact on your organzation's reputation
 and credibility.
+
+
+
+THEFT
+
+A data breach often involves an incident where sensitive 
+personal data has been stolen. Cybercriminals can make this 
+imformation public or exploit it to steal an individual's money 
+and/or identity.
