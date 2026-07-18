@@ -1,3 +1,5 @@
+REPUTATIONAL DAMAGE 
+
 A security breach can have a negative long-term impact on an
 organization's reputation that has taken years to build.
 Customers, particular those who have been adversely 
@@ -7,3 +9,16 @@ Employees may also choose to leave in light of a scandal.
 
 Depending on the severity of a breach, it can take a long time to repair 
 an organization's reputation. 
+
+
+
+VANDILISM
+
+A hacker or hacking group may vandalize an organzation's
+website by posting untrue information. They might even just 
+make a few minor edits to your organization's phone number
+or address, which can be tickier to detect.
+
+In either case, online vandlisim can portray unprofessionalisim
+and have a negative impact on your organzation's reputation
+and credibility.
