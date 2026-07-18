@@ -44,3 +44,13 @@ expansion. It may demand further investment in an
 organization's security infrastructure. And let's not forget that 
 organizations may face large fines or penalities if they do not 
 protect online data.
+
+
+
+DAMAGED INTELLECTUAL PROPERTY 
+
+A security breach could also have a devastating impact on the
+competitiveness of an organization, particularly if hackers are 
+able to get their hands on confidential documents, trade 
+secrets and intellectual property.
+
