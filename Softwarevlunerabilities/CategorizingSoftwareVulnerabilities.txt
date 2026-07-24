@@ -22,3 +22,14 @@ processing. A malicious user could craft an image file with inavlid
 image dimensions. The maliciously crafted dimensions could force the 
 program to allcate buffers of incorrect and unexpected sizes.
 
+
+
+
+RACE CONDITIONS 
+
+This vulnerability describes a situation where the output of an event
+depends on ordered or timed outputs. A race condition becomes a 
+source of vulnerability when the required ordered or timed events do 
+not occur on the correct order or at the proper time.
+
+
