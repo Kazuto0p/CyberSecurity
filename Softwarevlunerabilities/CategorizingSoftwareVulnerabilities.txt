@@ -33,3 +33,14 @@ source of vulnerability when the required ordered or timed events do
 not occur on the correct order or at the proper time.
 
 
+
+
+WEAKNESS IN SECURITY PRACTICES
+
+Systems and sensitive data can be protected through techniques such 
+as authentication, authorization and encryption. Developers should stick 
+to using security techniques and libraries that have already been 
+created, tested and verified and should not attempt to create their own 
+security algorithms. These will only likely introdyuce new vulnerabilities.
+
+
