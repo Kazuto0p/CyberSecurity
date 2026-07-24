@@ -7,3 +7,18 @@ occurs when data is written beyond the limits of a buffer. By changing
 data beyond the boundaries of a buffer, the application can access
 memory allocated to other processes. This can lead to a system crash
 or data compromise, or a provide escalation of privileges.
+
+
+
+
+NON-VALIDATE INPUT
+
+Programs often require data input, but this incoming data could have 
+malicious cintent, designed to force the program to behave in an 
+unintended way.
+
+For example, consider a program that raceives an image for 
+processing. A malicious user could craft an image file with inavlid 
+image dimensions. The maliciously crafted dimensions could force the 
+program to allcate buffers of incorrect and unexpected sizes.
+
