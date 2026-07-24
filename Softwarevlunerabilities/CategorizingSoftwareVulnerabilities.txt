@@ -1,0 +1,9 @@
+Categorizing Software Vulnerabilities
+
+BUFFEROVERFLOW
+
+Buffers are memory areas allocated to an application. A vulnerability 
+occurs when data is written beyond the limits of a buffer. By changing
+data beyond the boundaries of a buffer, the application can access
+memory allocated to other processes. This can lead to a system crash
+or data compromise, or a provide escalation of privileges.
